@@ -1,0 +1,22 @@
+/*************************************Tag Selectors***************************/
+body{
+    background-color: #dccae3;
+    margin: 20px;
+}
+
+hr{
+    
+    border-style: dotted none none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 10px;
+}
+
+h1,h3{
+    color: #682d80;
+}
+
+a{
+    text-decoration: none;
+}
+
